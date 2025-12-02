@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.viewgogogo.com/sitemap.xml
+Sitemap: https://www.abcviews.com/sitemap.xml
